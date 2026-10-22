@@ -1,6 +1,6 @@
 # EAP A1
 
-Objetivo do repositório
+Objetivo do repositório/Conteúdo 
 Documentar a Estrutura Analítica do Projeto (EAP) do Módulo de Importação de XML de Nota Fiscal Eletrônica (NF-e), organizando suas entregas em três níveis: requisitos, projeto, construção e entrega.
 
 Arquivos
